@@ -1,0 +1,9 @@
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# Repos are tracked as submodules or separately — ignore by default.
+# When you clone a new project, add an exclusion here if it has its own git history:
+#   repos/<project>/
