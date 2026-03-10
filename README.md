@@ -18,8 +18,7 @@ learning/
 │   ├── rules/
 │   │   └── projects.md       # Index of all projects you're learning
 │   └── skills/
-│       ├── learn-project/    # Skill: structured 5-stage project learning
-│       └── get-api-docs/     # Skill: fetch API docs via chub CLI
+│       └── learn-project/    # Skill: structured 5-stage project learning
 ├── notes/                    # Your learning notes (one dir per project)
 ├── repos/                    # Cloned repositories
 ├── learning.code-workspace   # VS Code / Cursor multi-root workspace
@@ -70,7 +69,7 @@ Both tools get the same skills and conventions — just through different discov
 - Git
 - [GitHub CLI](https://cli.github.com/) (`gh`) — for fetching repo metadata
 - Language-specific tools as needed (Node.js, Python, etc.)
-- Optional: [chub](https://github.com/andrewyng/context-hub) CLI for fetching API docs
+
 
 ### Tips
 

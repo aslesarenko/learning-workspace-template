@@ -27,15 +27,9 @@ Read the full skill file before acting — don't summarize or skip steps.
 | Skill | File | When to use |
 |-------|------|-------------|
 | **Learn a project** | `.cursor/skills/learn-project/SKILL.md` | User wants to learn, study, onboard, or explore a GitHub project |
-| **Get API docs** | `.cursor/skills/get-api-docs/SKILL.md` | Need current API docs before writing code against an external service |
 
 ### Learn a project (summary)
 
 Five-stage guided learning (~2h total): onboard → prerequisites → build/test/run
 → exercises → ecosystem. Produces `guide.md`, `metadata.md`, `exercises.md` in
 `notes/<project>/`. Full instructions in the skill file — always read it first.
-
-### Get API docs (summary)
-
-Use `chub` CLI to fetch current API docs instead of relying on training data.
-Search → fetch → use → annotate → feedback. Full instructions in the skill file.
